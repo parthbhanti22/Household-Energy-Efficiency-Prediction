@@ -37,7 +37,7 @@ The project uses **Simple Linear Regression** with `Relative Compactness` (X1) t
 - **Mean Absolute Error**: `2.5` (example value)
 
 ### Scatter Plot: Actual vs Predicted Heating Load
-![Scatter Plot](scatter_plot.png)
+![Scatter Plot](scatter_plot.png)  
 
 ## 🖥️ User Input
 The project allows users to input building characteristics and get predictions for heating load dynamically.
