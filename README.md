@@ -3,7 +3,7 @@
 This project explores energy efficiency by predicting **Heating Load** using **Relative Compactness** through a simple linear regression model.
 
 ## 📊 Dataset
-The dataset used is the **Energy Efficiency Dataset** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Energy+efficiency). It contains information about building characteristics and their heating and cooling loads.
+The dataset used is the **Energy Efficiency Dataset** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Energy+efficiency). It contains information about building characteristics and their heating and the cooling loads.
 
 - **Features**:
   - Relative Compactness
