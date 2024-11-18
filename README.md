@@ -33,8 +33,8 @@ The project uses **Simple Linear Regression** with `Relative Compactness` (X1) t
 - Google Colab
 
 ## 📈 Results
-- **R-squared**: `0.85` (example value)
-- **Mean Absolute Error**: `2.5` (example value)
+- **R-squared**: `0.40004330620316075` 
+- **Mean Absolute Error**: `6.058376741504266` 
 
 ### Scatter Plot: Actual vs Predicted Heating Load
 ![Scatter Plot](scatter_plot.png)  
