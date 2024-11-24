@@ -23,7 +23,7 @@ The project uses **Simple Linear Regression** with `Relative Compactness` (X1) t
 
 ## ⚡ Key Steps
 1. Data inspection and visualization.
-2. Splitting the data into training and test sets.
+2. Splitting the given data into training and test sets.
 3. Building and evaluating the linear regression model.
 4. Visualizing results with scatter plots and performance metrics.
 
